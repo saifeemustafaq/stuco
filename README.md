@@ -110,39 +110,44 @@ I've categorized the recommended books into five categories based on their conte
 
 ## Personal and Professional Development
 
+1. Thinking, Fast and Slow  
+   Author: Daniel Kahneman  
+   Price: $13.55  
+
+2. Superconnector: Stop Networking and Start Building Business Relationships that Matter   
+   Authors: Scott Gerber, Ryan Paugh  
+   Price: $41.37  
+
+3. Running Lean: Iterate from Plan A to a Plan That Works  
+   Author: Ash Maurya  
+   Price: $23.12  
+
+## Finance and Economics
+
 1. The Psychology of Money: Timeless lessons on wealth, greed, and happiness  
    Author: Morgan Housel  
    Price: $10.99  
 
-2. Thinking, Fast and Slow  
-   Author: Daniel Kahneman  
-   Price: $13.55  
-
-3. Never Split the Difference: Negotiating as if Your Life Depended on It  
-   Author: Chris Voss  
-   Price: $9.75  
-
-4. Talk Like Ted  
-   Author: Carmine Gallo  
-   Price: $10.49  
-
-5. Superconnector: Stop Networking and Start Building Business Relationships that Matter  
-   Authors: Scott Gerber, Ryan Paugh  
-   Price: $41.37  
-
-6. The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you  
-   Author: Rob Fitzpatrick  
-   Price: $17.99  
-
-7. Accounting for Non-Accountants: Financial Accounting Made Simple for Beginners (Basics for Entrepreneurs and Small Business Owners) (Quick Start Your Business)  
+2. Accounting for Non-Accountants: Financial Accounting Made Simple for Beginners (Basics for Entrepreneurs and Small Business Owners) (Quick Start Your Business)  
    Author: Wayne Label  
    Price: $9.96  
 
-8. Running Lean: Iterate from Plan A to a Plan That Works  
-   Author: Ash Maurya  
-   Price: $23.12  
+## Communication and Negotiation
 
-9. Design Thinking and Innovation Metrics: Powerful Tools to Manage Creativity, OKRs, Product, and Business Success (Design Thinking Series)  
+1. Never Split the Difference: Negotiating as if Your Life Depended on It  
+   Author: Chris Voss  
+   Price: $9.75  
+
+2. Talk Like Ted  
+   Author: Carmine Gallo  
+   Price: $10.49  
+
+3. The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you  
+   Author: Rob Fitzpatrick  
+   Price: $17.99  
+
+## Design Thinking and Creativity
+
+1. Design Thinking and Innovation Metrics: Powerful Tools to Manage Creativity, OKRs, Product, and Business Success (Design Thinking Series)  
    Author: Michael Lewrick  
    Price: $26.13  
-
